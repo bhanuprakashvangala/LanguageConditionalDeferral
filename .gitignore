@@ -1,0 +1,11 @@
+# downloaded data
+data/masakhanews/
+data/afrisenti/
+# large intermediate outputs and re-runs
+results/*_probs.npz
+results/rerun/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store

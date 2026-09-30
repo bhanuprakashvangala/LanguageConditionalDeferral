@@ -1,0 +1,8 @@
+{
+ "feature_time_s": 54.8540723323822,
+ "fit_time_s": 150.68550848960876,
+ "n_features": 450000,
+ "n_train": 21734,
+ "model_size_mb": 40.235125,
+ "inference_docs_per_s": 605.3112277396824
+}
