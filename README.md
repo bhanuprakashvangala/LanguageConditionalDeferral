@@ -93,11 +93,14 @@ the ablation and the official-split check).
 ## Citation
 
 ```bibtex
-@inproceedings{vangala2026onethreshold,
-  title     = {One Threshold Does Not Fit All Languages: Language-Conditional Deferral for Reliable and Efficient Low-Resource Text Classification},
-  author    = {Vangala, Bhanu Prakash and Vangala, Navya},
-  booktitle = {Global South in AI Workshop at NeurIPS 2026},
-  year      = {2026}
+@misc{vangala2026thresholddoesfitlanguages,
+      title={One Threshold Does Not Fit All Languages: Language-Conditional Deferral for Reliable and Efficient Low-Resource Text Classification},
+      author={Bhanu Prakash Vangala and Vangala Navya},
+      year={2026},
+      eprint={2609.37861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.37861},
 }
 ```
 

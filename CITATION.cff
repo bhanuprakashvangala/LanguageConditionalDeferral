@@ -10,12 +10,14 @@ authors:
     given-names: Navya
 license: MIT
 preferred-citation:
-  type: conference-paper
+  type: article
   title: "One Threshold Does Not Fit All Languages: Language-Conditional Deferral for Reliable and Efficient Low-Resource Text Classification"
   authors:
     - family-names: Vangala
       given-names: Bhanu Prakash
     - family-names: Vangala
       given-names: Navya
-  collection-title: "Global South in AI Workshop at NeurIPS 2026"
+  journal: "arXiv preprint arXiv:2609.37861"
   year: 2026
+  doi: "10.48550/arXiv.2609.37861"
+  url: "https://arxiv.org/abs/2609.37861"
